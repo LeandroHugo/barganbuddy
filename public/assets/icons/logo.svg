@@ -1,0 +1,29 @@
+<svg width="27" height="27" viewBox="0 0 27 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Main Circle -->
+    <circle cx="13.5" cy="13.5" r="3" fill="#FFA500"/>
+
+    <!-- Smaller Circles and Lines -->
+    <circle cx="13.5" cy="5.5" r="1" fill="#FFA500"/>
+    <line x1="13.5" y1="13.5" x2="13.5" y2="5.5" stroke="#FFA500"/>
+
+    <circle cx="19.5" cy="7.5" r="1" fill="#FFA500"/>
+    <line x1="13.5" y1="13.5" x2="19.5" y2="7.5" stroke="#FFA500"/>
+
+    <circle cx="22.5" cy="13.5" r="1" fill="#FFA500"/>
+    <line x1="13.5" y1="13.5" x2="22.5" y2="13.5" stroke="#FFA500"/>
+
+    <circle cx="19.5" cy="19.5" r="1" fill="#FFA500"/>
+    <line x1="13.5" y1="13.5" x2="19.5" y2="19.5" stroke="#FFA500"/>
+
+    <circle cx="13.5" cy="21.5" r="1" fill="#FFA500"/>
+    <line x1="13.5" y1="13.5" x2="13.5" y2="21.5" stroke="#FFA500"/>
+
+    <circle cx="7.5" cy="19.5" r="1" fill="#FFA500"/>
+    <line x1="13.5" y1="13.5" x2="7.5" y2="19.5" stroke="#FFA500"/>
+
+    <circle cx="4.5" cy="13.5" r="1" fill="#FFA500"/>
+    <line x1="13.5" y1="13.5" x2="4.5" y2="13.5" stroke="#FFA500"/>
+
+    <circle cx="7.5" cy="7.5" r="1" fill="#FFA500"/>
+    <line x1="13.5" y1="13.5" x2="7.5" y2="7.5" stroke="#FFA500"/>
+</svg>
